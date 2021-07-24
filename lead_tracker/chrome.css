@@ -1,0 +1,79 @@
+body{
+    background:conic-gradient(red .2rad, yellow .5rad, blue 0.5rad,pink 1.5rad);
+    min-width: 400px;
+}
+
+#input-el{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+    margin-top:20px;
+    margin-left:50px;
+    border:2px solid #5f9341;
+    width:500px;
+    border-radius: 5px;
+    height:30px;
+    box-sizing: border-box;
+}
+
+#input-btn{
+    margin-top:20px;
+    margin-left:50px;
+    background-color:#5f9341 ;
+    width:100px;
+    border-radius: 5px;
+    height:40px;
+    text-align: center;
+    color: white;
+    border:none;
+}
+
+
+
+form{
+    margin-top:100px ;
+    margin-left:300px;
+    background-color:whitesmoke;
+    width:600px;
+
+    height:300px;
+}
+
+
+
+#box{
+    margin-top:10px ;
+    margin-left:400px;
+    background-color:teal;
+    width:300px;
+    height:100px;
+    border-radius: 2px;
+    border:none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:white;
+}
+
+
+
+ul{
+    list-style: none;
+    color: #5f9341;
+    padding-left:0px;
+    margin-left:10px;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+li{
+    color:#5f9341 ;
+    padding:5px;
+    margin-top:5px;
+    font-size:15px;
+}
+
+li a{
+    color:#5f9341;
+}
